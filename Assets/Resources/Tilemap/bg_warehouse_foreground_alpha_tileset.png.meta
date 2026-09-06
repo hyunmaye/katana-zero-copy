@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: e1094286a8b78e2488d880a649d4750b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8284768733558720223
+    second: bg_warehouse_foreground_alpha_tileset_0
+  - first:
+      213: 137657843714014229
+    second: bg_warehouse_foreground_alpha_tileset_1
+  - first:
+      213: -8829383235182598300
+    second: bg_warehouse_foreground_alpha_tileset_2
+  - first:
+      213: 4026361694871758808
+    second: bg_warehouse_foreground_alpha_tileset_3
+  - first:
+      213: -1592150022046472164
+    second: bg_warehouse_foreground_alpha_tileset_4
+  - first:
+      213: -5276448372979358319
+    second: bg_warehouse_foreground_alpha_tileset_5
+  - first:
+      213: 8012753265164413698
+    second: bg_warehouse_foreground_alpha_tileset_6
+  - first:
+      213: -2115513594358756184
+    second: bg_warehouse_foreground_alpha_tileset_7
+  - first:
+      213: 3507833333239304087
+    second: bg_warehouse_foreground_alpha_tileset_8
+  - first:
+      213: 2589928509064464748
+    second: bg_warehouse_foreground_alpha_tileset_9
+  - first:
+      213: 2483270212017402153
+    second: bg_warehouse_foreground_alpha_tileset_10
+  - first:
+      213: -5911105231233118755
+    second: bg_warehouse_foreground_alpha_tileset_11
+  - first:
+      213: -1617053131771449239
+    second: bg_warehouse_foreground_alpha_tileset_12
+  - first:
+      213: -2104371214209206366
+    second: bg_warehouse_foreground_alpha_tileset_13
+  - first:
+      213: -8123147601210081933
+    second: bg_warehouse_foreground_alpha_tileset_14
+  - first:
+      213: 391167773182696439
+    second: bg_warehouse_foreground_alpha_tileset_15
+  - first:
+      213: -3425828451528214565
+    second: bg_warehouse_foreground_alpha_tileset_16
+  - first:
+      213: 2545570776968730579
+    second: bg_warehouse_foreground_alpha_tileset_17
+  - first:
+      213: 6121261956392405661
+    second: bg_warehouse_foreground_alpha_tileset_18
+  - first:
+      213: -4085213190507711838
+    second: bg_warehouse_foreground_alpha_tileset_19
+  - first:
+      213: -708686773489038038
+    second: bg_warehouse_foreground_alpha_tileset_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12938fd3bb6960d80800000000000000
+      internalID: -8284768733558720223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 539
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cbe1b541f09e100800000000000000
+      internalID: 137657843714014229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 571
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 467e6294abab77580800000000000000
+      internalID: -8829383235182598300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 539
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7221001a280e730800000000000000
+      internalID: 4026361694871758808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 539
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c182ac29dfb87e9e0800000000000000
+      internalID: -1592150022046472164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 571
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a0ec192a46c6b0800000000000000
+      internalID: -5276448372979358319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20be9fa24a4033f60800000000000000
+      internalID: 8012753265164413698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac8cba289f24a2e0800000000000000
+      internalID: -2115513594358756184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 461
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc00fc4d35ea030800000000000000
+      internalID: 3507833333239304087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69c178c14641f320800000000000000
+      internalID: 2589928509064464748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 395
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9213b94d919567220800000000000000
+      internalID: 2483270212017402153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 395
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd856e4c1987fda0800000000000000
+      internalID: -5911105231233118755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 395
+        width: 73
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96074d18eb21f89e0800000000000000
+      internalID: -1617053131771449239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 431
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7b085b785cbc2e0800000000000000
+      internalID: -2104371214209206366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 395
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d7ec38b48c44f80800000000000000
+      internalID: -8123147601210081933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb92286405bd6500800000000000000
+      internalID: 391167773182696439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd7fb359c230570d0800000000000000
+      internalID: -3425828451528214565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d716d7722fa35320800000000000000
+      internalID: 2545570776968730579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac1e7415713f450800000000000000
+      internalID: 6121261956392405661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 576
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a23c046f386e47c0800000000000000
+      internalID: -4085213190507711838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_warehouse_foreground_alpha_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 217
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d0b21622d3a26f0800000000000000
+      internalID: -708686773489038038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_warehouse_foreground_alpha_tileset_0: -8284768733558720223
+      bg_warehouse_foreground_alpha_tileset_1: 137657843714014229
+      bg_warehouse_foreground_alpha_tileset_10: 2483270212017402153
+      bg_warehouse_foreground_alpha_tileset_11: -5911105231233118755
+      bg_warehouse_foreground_alpha_tileset_12: -1617053131771449239
+      bg_warehouse_foreground_alpha_tileset_13: -2104371214209206366
+      bg_warehouse_foreground_alpha_tileset_14: -8123147601210081933
+      bg_warehouse_foreground_alpha_tileset_15: 391167773182696439
+      bg_warehouse_foreground_alpha_tileset_16: -3425828451528214565
+      bg_warehouse_foreground_alpha_tileset_17: 2545570776968730579
+      bg_warehouse_foreground_alpha_tileset_18: 6121261956392405661
+      bg_warehouse_foreground_alpha_tileset_19: -4085213190507711838
+      bg_warehouse_foreground_alpha_tileset_2: -8829383235182598300
+      bg_warehouse_foreground_alpha_tileset_20: -708686773489038038
+      bg_warehouse_foreground_alpha_tileset_3: 4026361694871758808
+      bg_warehouse_foreground_alpha_tileset_4: -1592150022046472164
+      bg_warehouse_foreground_alpha_tileset_5: -5276448372979358319
+      bg_warehouse_foreground_alpha_tileset_6: 8012753265164413698
+      bg_warehouse_foreground_alpha_tileset_7: -2115513594358756184
+      bg_warehouse_foreground_alpha_tileset_8: 3507833333239304087
+      bg_warehouse_foreground_alpha_tileset_9: 2589928509064464748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

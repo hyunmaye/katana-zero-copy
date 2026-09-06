@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 01d3de3c9ab7a6c4fb121e98a7dcc0bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6166919697916137180
+    second: bg_haunted_foreground_alpha_tileset_0
+  - first:
+      213: 5791999808606368663
+    second: bg_haunted_foreground_alpha_tileset_1
+  - first:
+      213: -3539540452869518640
+    second: bg_haunted_foreground_alpha_tileset_2
+  - first:
+      213: -5664611072723710786
+    second: bg_haunted_foreground_alpha_tileset_3
+  - first:
+      213: 1030856901835411351
+    second: bg_haunted_foreground_alpha_tileset_4
+  - first:
+      213: -7400532072157303898
+    second: bg_haunted_foreground_alpha_tileset_5
+  - first:
+      213: 4903720083300141958
+    second: bg_haunted_foreground_alpha_tileset_6
+  - first:
+      213: 3284029986926612163
+    second: bg_haunted_foreground_alpha_tileset_7
+  - first:
+      213: 1955731321831144107
+    second: bg_haunted_foreground_alpha_tileset_8
+  - first:
+      213: 4297304200760969232
+    second: bg_haunted_foreground_alpha_tileset_9
+  - first:
+      213: 1157258383991083031
+    second: bg_haunted_foreground_alpha_tileset_10
+  - first:
+      213: -7769693913600833037
+    second: bg_haunted_foreground_alpha_tileset_11
+  - first:
+      213: 6007070848523137152
+    second: bg_haunted_foreground_alpha_tileset_12
+  - first:
+      213: -2024472947646054999
+    second: bg_haunted_foreground_alpha_tileset_13
+  - first:
+      213: -4626492042137772389
+    second: bg_haunted_foreground_alpha_tileset_14
+  - first:
+      213: -8291879063739703446
+    second: bg_haunted_foreground_alpha_tileset_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 829
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 421795f5533ba6aa0800000000000000
+      internalID: -6166919697916137180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 827
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 793fc1b7321516050800000000000000
+      internalID: 5791999808606368663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 755
+        width: 397
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da469e16b601eec0800000000000000
+      internalID: -3539540452869518640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 253
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc0f83ed324361b0800000000000000
+      internalID: -5664611072723710786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 577
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fc828f3e65e4e00800000000000000
+      internalID: 1030856901835411351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 647
+        width: 217
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6abad224a470c4990800000000000000
+      internalID: -7400532072157303898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 467
+        width: 217
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68bcd0b4f638d0440800000000000000
+      internalID: 4903720083300141958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 617
+        width: 82
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cecd72afd7339d20800000000000000
+      internalID: 3284029986926612163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 253
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baab9d97647242b10800000000000000
+      internalID: 1955731321831144107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 503
+        width: 326
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018c62a076713ab30800000000000000
+      internalID: 4297304200760969232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 217
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710912b6e586f0010800000000000000
+      internalID: 1157258383991083031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 251
+        width: 721
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9ce4a1d808c2490800000000000000
+      internalID: -7769693913600833037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 179
+        width: 217
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08073d22c176d5350800000000000000
+      internalID: 6007070848523137152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad3b2a8490a7e3e0800000000000000
+      internalID: -2024472947646054999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 179
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ed438fff56bcfb0800000000000000
+      internalID: -4626492042137772389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_alpha_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 143
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fdb4d7ce35dec80800000000000000
+      internalID: -8291879063739703446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_haunted_foreground_alpha_tileset_0: -6166919697916137180
+      bg_haunted_foreground_alpha_tileset_1: 5791999808606368663
+      bg_haunted_foreground_alpha_tileset_10: 1157258383991083031
+      bg_haunted_foreground_alpha_tileset_11: -7769693913600833037
+      bg_haunted_foreground_alpha_tileset_12: 6007070848523137152
+      bg_haunted_foreground_alpha_tileset_13: -2024472947646054999
+      bg_haunted_foreground_alpha_tileset_14: -4626492042137772389
+      bg_haunted_foreground_alpha_tileset_15: -8291879063739703446
+      bg_haunted_foreground_alpha_tileset_2: -3539540452869518640
+      bg_haunted_foreground_alpha_tileset_3: -5664611072723710786
+      bg_haunted_foreground_alpha_tileset_4: 1030856901835411351
+      bg_haunted_foreground_alpha_tileset_5: -7400532072157303898
+      bg_haunted_foreground_alpha_tileset_6: 4903720083300141958
+      bg_haunted_foreground_alpha_tileset_7: 3284029986926612163
+      bg_haunted_foreground_alpha_tileset_8: 1955731321831144107
+      bg_haunted_foreground_alpha_tileset_9: 4297304200760969232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

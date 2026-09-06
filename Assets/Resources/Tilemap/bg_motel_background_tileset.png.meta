@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: d27b6658cb5830645bce2478965274c3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5070890159639100558
+    second: bg_motel_background_tileset_0
+  - first:
+      213: -271445450050432938
+    second: bg_motel_background_tileset_1
+  - first:
+      213: -5090434458607982548
+    second: bg_motel_background_tileset_2
+  - first:
+      213: -8108194280145210595
+    second: bg_motel_background_tileset_3
+  - first:
+      213: 6126346762757191411
+    second: bg_motel_background_tileset_4
+  - first:
+      213: -543926961558606985
+    second: bg_motel_background_tileset_5
+  - first:
+      213: -2153979293438031484
+    second: bg_motel_background_tileset_6
+  - first:
+      213: -8755737744030641461
+    second: bg_motel_background_tileset_7
+  - first:
+      213: 6502902764927553086
+    second: bg_motel_background_tileset_8
+  - first:
+      213: -9198114065000477979
+    second: bg_motel_background_tileset_9
+  - first:
+      213: 3199237494967391520
+    second: bg_motel_background_tileset_10
+  - first:
+      213: -6294441033143088332
+    second: bg_motel_background_tileset_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cff44cbbb6f5640800000000000000
+      internalID: 5070890159639100558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 359
+        width: 398
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65019d52dc1ab3cf0800000000000000
+      internalID: -271445450050432938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 521
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28634684d42b59b0800000000000000
+      internalID: -5090434458607982548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 485
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d133712e248e97f80800000000000000
+      internalID: -8108194280145210595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 485
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f6b1050ce7250550800000000000000
+      internalID: 6126346762757191411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77baa807f459378f0800000000000000
+      internalID: -543926961558606985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 413
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4894411be378b12e0800000000000000
+      internalID: -2153979293438031484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 145
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2d29469ee5d7680800000000000000
+      internalID: -8755737744030641461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 251
+        width: 146
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3e89606c93fe3a50800000000000000
+      internalID: 6502902764927553086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 215
+        width: 217
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ea4f18ddfbb95080800000000000000
+      internalID: -9198114065000477979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 433
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02554a72d89f56c20800000000000000
+      internalID: 3199237494967391520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 143
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b0ddfca37a5a8a0800000000000000
+      internalID: -6294441033143088332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_motel_background_tileset_0: 5070890159639100558
+      bg_motel_background_tileset_1: -271445450050432938
+      bg_motel_background_tileset_10: 3199237494967391520
+      bg_motel_background_tileset_11: -6294441033143088332
+      bg_motel_background_tileset_2: -5090434458607982548
+      bg_motel_background_tileset_3: -8108194280145210595
+      bg_motel_background_tileset_4: 6126346762757191411
+      bg_motel_background_tileset_5: -543926961558606985
+      bg_motel_background_tileset_6: -2153979293438031484
+      bg_motel_background_tileset_7: -8755737744030641461
+      bg_motel_background_tileset_8: 6502902764927553086
+      bg_motel_background_tileset_9: -9198114065000477979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

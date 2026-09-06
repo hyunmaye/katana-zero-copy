@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a62a0fbc05ae1da44a9534c9f7797104
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -166361776454240170
+    second: bg_outside_new_alpha_tileset_0
+  - first:
+      213: -985902801375810811
+    second: bg_outside_new_alpha_tileset_1
+  - first:
+      213: 2101056861955089152
+    second: bg_outside_new_alpha_tileset_2
+  - first:
+      213: -8839347471442152223
+    second: bg_outside_new_alpha_tileset_3
+  - first:
+      213: -2810627209311047722
+    second: bg_outside_new_alpha_tileset_4
+  - first:
+      213: -3180530720128681302
+    second: bg_outside_new_alpha_tileset_5
+  - first:
+      213: 1580105249502524522
+    second: bg_outside_new_alpha_tileset_6
+  - first:
+      213: -1104413830229234394
+    second: bg_outside_new_alpha_tileset_7
+  - first:
+      213: 9104436246512905822
+    second: bg_outside_new_alpha_tileset_8
+  - first:
+      213: 8837029946877532502
+    second: bg_outside_new_alpha_tileset_9
+  - first:
+      213: -7807497149126298011
+    second: bg_outside_new_alpha_tileset_10
+  - first:
+      213: -6336330076089855734
+    second: bg_outside_new_alpha_tileset_11
+  - first:
+      213: -7389886387907130478
+    second: bg_outside_new_alpha_tileset_12
+  - first:
+      213: -5379796230720079771
+    second: bg_outside_new_alpha_tileset_13
+  - first:
+      213: 7275352688425789261
+    second: bg_outside_new_alpha_tileset_14
+  - first:
+      213: -430995751075542527
+    second: bg_outside_new_alpha_tileset_15
+  - first:
+      213: -4650071968767842918
+    second: bg_outside_new_alpha_tileset_16
+  - first:
+      213: -4777146487040752434
+    second: bg_outside_new_alpha_tileset_17
+  - first:
+      213: -3140196906788074674
+    second: bg_outside_new_alpha_tileset_18
+  - first:
+      213: 4535340342506499242
+    second: bg_outside_new_alpha_tileset_19
+  - first:
+      213: -261043467419363403
+    second: bg_outside_new_alpha_tileset_20
+  - first:
+      213: -4434437710011321761
+    second: bg_outside_new_alpha_tileset_21
+  - first:
+      213: -7378104439350759308
+    second: bg_outside_new_alpha_tileset_22
+  - first:
+      213: -1033864376196877355
+    second: bg_outside_new_alpha_tileset_23
+  - first:
+      213: -8806941708176849614
+    second: bg_outside_new_alpha_tileset_24
+  - first:
+      213: -856227147323676431
+    second: bg_outside_new_alpha_tileset_25
+  - first:
+      213: -6306019684955143866
+    second: bg_outside_new_alpha_tileset_26
+  - first:
+      213: 4961184629301563699
+    second: bg_outside_new_alpha_tileset_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 793
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658fd3288d6f0bdf0800000000000000
+      internalID: -166361776454240170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 791
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50baeec20ae5152f0800000000000000
+      internalID: -985902801375810811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 755
+        width: 82
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003eab58514782d10800000000000000
+      internalID: 2101056861955089152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 755
+        width: 68
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4717ebe44545580800000000000000
+      internalID: -8839347471442152223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 719
+        width: 96
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfa7f8c175aef8d0800000000000000
+      internalID: -2810627209311047722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 719
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa3385492c7cd3d0800000000000000
+      internalID: -3180530720128681302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64f3584a59ade510800000000000000
+      internalID: 1580105249502524522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 503
+        width: 792
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d682c09755ca0f0800000000000000
+      internalID: -1104413830229234394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 683
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5ea7916784795e70800000000000000
+      internalID: 9104436246512905822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 683
+        width: 172
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659df158aef63aa70800000000000000
+      internalID: 8837029946877532502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 683
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566b37175b236a390800000000000000
+      internalID: -7807497149126298011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 395
+        width: 753
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a015a0bfd55d018a0800000000000000
+      internalID: -6336330076089855734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 491
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b0d46cb79d17990800000000000000
+      internalID: -7389886387907130478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 431
+        width: 37
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 568b1ffd4df1755b0800000000000000
+      internalID: -5379796230720079771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 481
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d476d4149be37f460800000000000000
+      internalID: 7275352688425789261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 395
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a807dd5abc40af0800000000000000
+      internalID: -430995751075542527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 395
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9567997e20a77fb0800000000000000
+      internalID: -4650071968767842918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec44ee7949a24bdb0800000000000000
+      internalID: -4777146487040752434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 323
+        width: 290
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4bcd1efc87cb64d0800000000000000
+      internalID: -3140196906788074674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 323
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aac29922304c0fe30800000000000000
+      internalID: 4535340342506499242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 333
+        width: 6
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b758857956906cf0800000000000000
+      internalID: -261043467419363403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 275
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52bd2cb566b572c0800000000000000
+      internalID: -4434437710011321761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 179
+        width: 614
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470f3c07a15bb9990800000000000000
+      internalID: -7378104439350759308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 281
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d3bad6d3d9f6a1f0800000000000000
+      internalID: -1033864376196877355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 287
+        width: 73
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2350c867d2577c580800000000000000
+      internalID: -8806941708176849614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 179
+        width: 109
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f8e9bc22f11e14f0800000000000000
+      internalID: -856227147323676431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 269
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c0abd1848c78a0800000000000000
+      internalID: -6306019684955143866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_outside_new_alpha_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 215
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 331d5a6822ba9d440800000000000000
+      internalID: 4961184629301563699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_outside_new_alpha_tileset_0: -166361776454240170
+      bg_outside_new_alpha_tileset_1: -985902801375810811
+      bg_outside_new_alpha_tileset_10: -7807497149126298011
+      bg_outside_new_alpha_tileset_11: -6336330076089855734
+      bg_outside_new_alpha_tileset_12: -7389886387907130478
+      bg_outside_new_alpha_tileset_13: -5379796230720079771
+      bg_outside_new_alpha_tileset_14: 7275352688425789261
+      bg_outside_new_alpha_tileset_15: -430995751075542527
+      bg_outside_new_alpha_tileset_16: -4650071968767842918
+      bg_outside_new_alpha_tileset_17: -4777146487040752434
+      bg_outside_new_alpha_tileset_18: -3140196906788074674
+      bg_outside_new_alpha_tileset_19: 4535340342506499242
+      bg_outside_new_alpha_tileset_2: 2101056861955089152
+      bg_outside_new_alpha_tileset_20: -261043467419363403
+      bg_outside_new_alpha_tileset_21: -4434437710011321761
+      bg_outside_new_alpha_tileset_22: -7378104439350759308
+      bg_outside_new_alpha_tileset_23: -1033864376196877355
+      bg_outside_new_alpha_tileset_24: -8806941708176849614
+      bg_outside_new_alpha_tileset_25: -856227147323676431
+      bg_outside_new_alpha_tileset_26: -6306019684955143866
+      bg_outside_new_alpha_tileset_27: 4961184629301563699
+      bg_outside_new_alpha_tileset_3: -8839347471442152223
+      bg_outside_new_alpha_tileset_4: -2810627209311047722
+      bg_outside_new_alpha_tileset_5: -3180530720128681302
+      bg_outside_new_alpha_tileset_6: 1580105249502524522
+      bg_outside_new_alpha_tileset_7: -1104413830229234394
+      bg_outside_new_alpha_tileset_8: 9104436246512905822
+      bg_outside_new_alpha_tileset_9: 8837029946877532502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

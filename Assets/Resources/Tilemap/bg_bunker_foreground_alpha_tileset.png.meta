@@ -1,0 +1,351 @@
+fileFormatVersion: 2
+guid: 97cfaf5debd024f4ca26e138ba208783
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 370346268981363003
+    second: bg_bunker_foreground_alpha_tileset_0
+  - first:
+      213: -7288007056944741680
+    second: bg_bunker_foreground_alpha_tileset_1
+  - first:
+      213: 7289520338218868319
+    second: bg_bunker_foreground_alpha_tileset_2
+  - first:
+      213: -1601112516387510534
+    second: bg_bunker_foreground_alpha_tileset_3
+  - first:
+      213: 4124678269589969024
+    second: bg_bunker_foreground_alpha_tileset_4
+  - first:
+      213: 1190151369500844950
+    second: bg_bunker_foreground_alpha_tileset_5
+  - first:
+      213: -3953660289557277390
+    second: bg_bunker_foreground_alpha_tileset_6
+  - first:
+      213: 6509267009030464539
+    second: bg_bunker_foreground_alpha_tileset_7
+  - first:
+      213: 3639208077797699007
+    second: bg_bunker_foreground_alpha_tileset_8
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 721
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31868e28fbb32500800000000000000
+      internalID: 370346268981363003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 647
+        width: 512
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2c44af13ccbda90800000000000000
+      internalID: -7288007056944741680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 751
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e55864024992560800000000000000
+      internalID: 7289520338218868319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 647
+        width: 103
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af66a4f36a4b7c9e0800000000000000
+      internalID: -1601112516387510534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 507
+        width: 211
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 088deaf580dcd3930800000000000000
+      internalID: 4124678269589969024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 503
+        width: 510
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693ea086d54448010800000000000000
+      internalID: 1190151369500844950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 611
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235de5ef9e6c129c0800000000000000
+      internalID: -3953660289557277390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 611
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b142e6d6bdf855a50800000000000000
+      internalID: 6509267009030464539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunker_foreground_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 503
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd2dd42770118230800000000000000
+      internalID: 3639208077797699007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_bunker_foreground_alpha_tileset_0: 370346268981363003
+      bg_bunker_foreground_alpha_tileset_1: -7288007056944741680
+      bg_bunker_foreground_alpha_tileset_2: 7289520338218868319
+      bg_bunker_foreground_alpha_tileset_3: -1601112516387510534
+      bg_bunker_foreground_alpha_tileset_4: 4124678269589969024
+      bg_bunker_foreground_alpha_tileset_5: 1190151369500844950
+      bg_bunker_foreground_alpha_tileset_6: -3953660289557277390
+      bg_bunker_foreground_alpha_tileset_7: 6509267009030464539
+      bg_bunker_foreground_alpha_tileset_8: 3639208077797699007
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

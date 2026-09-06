@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 25e582facc20cc14a8bac680b86e9c60
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5035021996417454120
+    second: bg_motel_foreground_alpha_tileset_0
+  - first:
+      213: -3068251303888919064
+    second: bg_motel_foreground_alpha_tileset_1
+  - first:
+      213: -8096760468413668395
+    second: bg_motel_foreground_alpha_tileset_2
+  - first:
+      213: 6535257818298545160
+    second: bg_motel_foreground_alpha_tileset_3
+  - first:
+      213: 3989208884808599304
+    second: bg_motel_foreground_alpha_tileset_4
+  - first:
+      213: 882716579723493261
+    second: bg_motel_foreground_alpha_tileset_5
+  - first:
+      213: -129832361475542522
+    second: bg_motel_foreground_alpha_tileset_6
+  - first:
+      213: -3369116279445876938
+    second: bg_motel_foreground_alpha_tileset_7
+  - first:
+      213: -1832352395406232390
+    second: bg_motel_foreground_alpha_tileset_8
+  - first:
+      213: -2749740352978972507
+    second: bg_motel_foreground_alpha_tileset_9
+  - first:
+      213: -2308054864139574622
+    second: bg_motel_foreground_alpha_tileset_10
+  - first:
+      213: -6473219719397968765
+    second: bg_motel_foreground_alpha_tileset_11
+  - first:
+      213: -1828129510720980567
+    second: bg_motel_foreground_alpha_tileset_12
+  - first:
+      213: 42401543324708171
+    second: bg_motel_foreground_alpha_tileset_13
+  - first:
+      213: -4129068250440664827
+    second: bg_motel_foreground_alpha_tileset_14
+  - first:
+      213: 4780784387265218320
+    second: bg_motel_foreground_alpha_tileset_15
+  - first:
+      213: 1734730182188862367
+    second: bg_motel_foreground_alpha_tileset_16
+  - first:
+      213: -3698406725078807843
+    second: bg_motel_foreground_alpha_tileset_17
+  - first:
+      213: 7099005308097657437
+    second: bg_motel_foreground_alpha_tileset_18
+  - first:
+      213: -2700590733214313736
+    second: bg_motel_foreground_alpha_tileset_19
+  - first:
+      213: -5423412374065027387
+    second: bg_motel_foreground_alpha_tileset_20
+  - first:
+      213: -1050850571359632670
+    second: bg_motel_foreground_alpha_tileset_21
+  - first:
+      213: -3094614009183397544
+    second: bg_motel_foreground_alpha_tileset_22
+  - first:
+      213: -4962267747586728724
+    second: bg_motel_foreground_alpha_tileset_23
+  - first:
+      213: 4272350084995317761
+    second: bg_motel_foreground_alpha_tileset_24
+  - first:
+      213: -2133195093685486022
+    second: bg_motel_foreground_alpha_tileset_25
+  - first:
+      213: 1491662490659880500
+    second: bg_motel_foreground_alpha_tileset_26
+  - first:
+      213: -8923692751088532621
+    second: bg_motel_foreground_alpha_tileset_27
+  - first:
+      213: -4696445203086002198
+    second: bg_motel_foreground_alpha_tileset_28
+  - first:
+      213: 5135612160926999068
+    second: bg_motel_foreground_alpha_tileset_29
+  - first:
+      213: -3150933054694375977
+    second: bg_motel_foreground_alpha_tileset_30
+  - first:
+      213: -5104937849447699745
+    second: bg_motel_foreground_alpha_tileset_31
+  - first:
+      213: 7066758362405812052
+    second: bg_motel_foreground_alpha_tileset_32
+  - first:
+      213: 518702212771767179
+    second: bg_motel_foreground_alpha_tileset_33
+  - first:
+      213: 6783514131671939912
+    second: bg_motel_foreground_alpha_tileset_34
+  - first:
+      213: -3387711845433163306
+    second: bg_motel_foreground_alpha_tileset_35
+  - first:
+      213: 5803111441883796861
+    second: bg_motel_foreground_alpha_tileset_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8df6243cb22002ab0800000000000000
+      internalID: -5035021996417454120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 467
+        width: 362
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5621602b16b65d0800000000000000
+      internalID: -3068251303888919064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 467
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d327c0a04782af80800000000000000
+      internalID: -8096760468413668395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 503
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80477474c56e1ba50800000000000000
+      internalID: 6535257818298545160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 467
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80749d158548c5730800000000000000
+      internalID: 3989208884808599304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 395
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8f34cb6d0a004c00800000000000000
+      internalID: 882716579723493261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 395
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60276e5b72eb23ef0800000000000000
+      internalID: -129832361475542522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 431
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f84ac189e7e31d0800000000000000
+      internalID: -3369116279445876938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 323
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4b970643d2296e0800000000000000
+      internalID: -1832352395406232390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 323
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0912cb7b5f6d9d0800000000000000
+      internalID: -2749740352978972507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 323
+        width: 182
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a229d4645428ffd0800000000000000
+      internalID: -2308054864139574622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 255
+        width: 181
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384fa3836f08a26a0800000000000000
+      internalID: -6473219719397968765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 219
+        width: 109
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a9311655ed21a6e0800000000000000
+      internalID: -1828129510720980567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 215
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d2ccf9af3a69000800000000000000
+      internalID: 42401543324708171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 251
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f32f8d4a92b6c0800000000000000
+      internalID: -4129068250440664827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 215
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0174dae0212c85240800000000000000
+      internalID: 4780784387265218320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 143
+        width: 62
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9b0482e8eff21810800000000000000
+      internalID: 1734730182188862367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda03c4bdae9cacc0800000000000000
+      internalID: -3698406725078807843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 179
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5af5cf27bbb48260800000000000000
+      internalID: 7099005308097657437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 143
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29c075903958ad0800000000000000
+      internalID: -2700590733214313736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 143
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c665652e2b2cb4b0800000000000000
+      internalID: -5423412374065027387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 179
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2c71619f0aa61f0800000000000000
+      internalID: -1050850571359632670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 107
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8591da164f8bd05d0800000000000000
+      internalID: -3094614009183397544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 143
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec17b856cb722bb0800000000000000
+      internalID: -4962267747586728724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 107
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100814434cf6a4b30800000000000000
+      internalID: 4272350084995317761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 121
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3e354c4d5e5562e0800000000000000
+      internalID: -2133195093685486022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 117
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e7e80d12373b410800000000000000
+      internalID: 1491662490659880500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 117
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373c3aef8bca82480800000000000000
+      internalID: -8923692751088532621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 121
+        width: 38
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae7b8fa78ffd2deb0800000000000000
+      internalID: -4696445203086002198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 107
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c12ea3cfc0c554740800000000000000
+      internalID: 5135612160926999068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 107
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb7e3c413a544d0800000000000000
+      internalID: -3150933054694375977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 107
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda2933b21e9729b0800000000000000
+      internalID: -5104937849447699745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 107
+        width: 38
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45738b01a4b221260800000000000000
+      internalID: 7066758362405812052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 35
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8368701aecc23700800000000000000
+      internalID: 518702212771767179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf5238922e32e50800000000000000
+      internalID: 6783514131671939912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1c293860e6cf0d0800000000000000
+      internalID: -3387711845433163306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_foreground_alpha_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d751d753c1bc88050800000000000000
+      internalID: 5803111441883796861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_motel_foreground_alpha_tileset_0: -5035021996417454120
+      bg_motel_foreground_alpha_tileset_1: -3068251303888919064
+      bg_motel_foreground_alpha_tileset_10: -2308054864139574622
+      bg_motel_foreground_alpha_tileset_11: -6473219719397968765
+      bg_motel_foreground_alpha_tileset_12: -1828129510720980567
+      bg_motel_foreground_alpha_tileset_13: 42401543324708171
+      bg_motel_foreground_alpha_tileset_14: -4129068250440664827
+      bg_motel_foreground_alpha_tileset_15: 4780784387265218320
+      bg_motel_foreground_alpha_tileset_16: 1734730182188862367
+      bg_motel_foreground_alpha_tileset_17: -3698406725078807843
+      bg_motel_foreground_alpha_tileset_18: 7099005308097657437
+      bg_motel_foreground_alpha_tileset_19: -2700590733214313736
+      bg_motel_foreground_alpha_tileset_2: -8096760468413668395
+      bg_motel_foreground_alpha_tileset_20: -5423412374065027387
+      bg_motel_foreground_alpha_tileset_21: -1050850571359632670
+      bg_motel_foreground_alpha_tileset_22: -3094614009183397544
+      bg_motel_foreground_alpha_tileset_23: -4962267747586728724
+      bg_motel_foreground_alpha_tileset_24: 4272350084995317761
+      bg_motel_foreground_alpha_tileset_25: -2133195093685486022
+      bg_motel_foreground_alpha_tileset_26: 1491662490659880500
+      bg_motel_foreground_alpha_tileset_27: -8923692751088532621
+      bg_motel_foreground_alpha_tileset_28: -4696445203086002198
+      bg_motel_foreground_alpha_tileset_29: 5135612160926999068
+      bg_motel_foreground_alpha_tileset_3: 6535257818298545160
+      bg_motel_foreground_alpha_tileset_30: -3150933054694375977
+      bg_motel_foreground_alpha_tileset_31: -5104937849447699745
+      bg_motel_foreground_alpha_tileset_32: 7066758362405812052
+      bg_motel_foreground_alpha_tileset_33: 518702212771767179
+      bg_motel_foreground_alpha_tileset_34: 6783514131671939912
+      bg_motel_foreground_alpha_tileset_35: -3387711845433163306
+      bg_motel_foreground_alpha_tileset_36: 5803111441883796861
+      bg_motel_foreground_alpha_tileset_4: 3989208884808599304
+      bg_motel_foreground_alpha_tileset_5: 882716579723493261
+      bg_motel_foreground_alpha_tileset_6: -129832361475542522
+      bg_motel_foreground_alpha_tileset_7: -3369116279445876938
+      bg_motel_foreground_alpha_tileset_8: -1832352395406232390
+      bg_motel_foreground_alpha_tileset_9: -2749740352978972507
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

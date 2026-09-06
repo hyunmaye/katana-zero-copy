@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: bdc0e072a15e36742a3b9274c062c361
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3492089828868496051
+    second: bg_haunted_foreground_tileset_0
+  - first:
+      213: 1655034244698052764
+    second: bg_haunted_foreground_tileset_1
+  - first:
+      213: -1336655866425391047
+    second: bg_haunted_foreground_tileset_2
+  - first:
+      213: -4509809130001575614
+    second: bg_haunted_foreground_tileset_3
+  - first:
+      213: -3885674703763122347
+    second: bg_haunted_foreground_tileset_4
+  - first:
+      213: 9212209954849671805
+    second: bg_haunted_foreground_tileset_5
+  - first:
+      213: 8845517093043959954
+    second: bg_haunted_foreground_tileset_6
+  - first:
+      213: 3184216874065487268
+    second: bg_haunted_foreground_tileset_7
+  - first:
+      213: -4797429595612168104
+    second: bg_haunted_foreground_tileset_8
+  - first:
+      213: 8882641051678772458
+    second: bg_haunted_foreground_tileset_9
+  - first:
+      213: -8279061008841047907
+    second: bg_haunted_foreground_tileset_10
+  - first:
+      213: -378117555410216494
+    second: bg_haunted_foreground_tileset_11
+  - first:
+      213: -3688876098394708359
+    second: bg_haunted_foreground_tileset_12
+  - first:
+      213: -5084313142283952683
+    second: bg_haunted_foreground_tileset_13
+  - first:
+      213: -1669038266693973519
+    second: bg_haunted_foreground_tileset_14
+  - first:
+      213: 4433993824760229796
+    second: bg_haunted_foreground_tileset_15
+  - first:
+      213: -7238499558924168767
+    second: bg_haunted_foreground_tileset_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 829
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ba167d8235667030800000000000000
+      internalID: 3492089828868496051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 827
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c98955670ecd7f610800000000000000
+      internalID: 1655034244698052764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 755
+        width: 397
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938c5c6429e337de0800000000000000
+      internalID: -1336655866425391047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 253
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24151718d70f961c0800000000000000
+      internalID: -4509809130001575614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 577
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5575a71b17f431ac0800000000000000
+      internalID: -3885674703763122347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 647
+        width: 217
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ac123452858df70800000000000000
+      internalID: 9212209954849671805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 253
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 298f7893ee691ca70800000000000000
+      internalID: 8845517093043959954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 503
+        width: 326
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a56a72506c903c20800000000000000
+      internalID: 3184216874065487268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 467
+        width: 217
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850479e533b1c6db0800000000000000
+      internalID: -4797429595612168104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 395
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aec8d9869fa754b70800000000000000
+      internalID: 8882641051678772458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d900e3670edda1d80800000000000000
+      internalID: -8279061008841047907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 215
+        width: 217
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d95f623618a0caf0800000000000000
+      internalID: -378117555410216494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 251
+        width: 721
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97621c6abba7eccc0800000000000000
+      internalID: -3688876098394708359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 179
+        width: 217
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd905b8224e079b0800000000000000
+      internalID: -5084313142283952683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 143
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f90c251a8266d8e0800000000000000
+      internalID: -1669038266693973519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 179
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afeb1d24e5b88d30800000000000000
+      internalID: 4433993824760229796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_haunted_foreground_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 143
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d08b900fab8b90800000000000000
+      internalID: -7238499558924168767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_haunted_foreground_tileset_0: 3492089828868496051
+      bg_haunted_foreground_tileset_1: 1655034244698052764
+      bg_haunted_foreground_tileset_10: -8279061008841047907
+      bg_haunted_foreground_tileset_11: -378117555410216494
+      bg_haunted_foreground_tileset_12: -3688876098394708359
+      bg_haunted_foreground_tileset_13: -5084313142283952683
+      bg_haunted_foreground_tileset_14: -1669038266693973519
+      bg_haunted_foreground_tileset_15: 4433993824760229796
+      bg_haunted_foreground_tileset_16: -7238499558924168767
+      bg_haunted_foreground_tileset_2: -1336655866425391047
+      bg_haunted_foreground_tileset_3: -4509809130001575614
+      bg_haunted_foreground_tileset_4: -3885674703763122347
+      bg_haunted_foreground_tileset_5: 9212209954849671805
+      bg_haunted_foreground_tileset_6: 8845517093043959954
+      bg_haunted_foreground_tileset_7: 3184216874065487268
+      bg_haunted_foreground_tileset_8: -4797429595612168104
+      bg_haunted_foreground_tileset_9: 8882641051678772458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

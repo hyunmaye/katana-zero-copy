@@ -1,0 +1,1963 @@
+fileFormatVersion: 2
+guid: ff75e64f5aa9b9f4585832003efe32fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7128072736828383983
+    second: bg_club_background_alpha_tileset_0
+  - first:
+      213: 58366052286659467
+    second: bg_club_background_alpha_tileset_1
+  - first:
+      213: 6732090749642380043
+    second: bg_club_background_alpha_tileset_2
+  - first:
+      213: -7595915418131412660
+    second: bg_club_background_alpha_tileset_3
+  - first:
+      213: 6251214701789758966
+    second: bg_club_background_alpha_tileset_4
+  - first:
+      213: -4125246492367369223
+    second: bg_club_background_alpha_tileset_5
+  - first:
+      213: 7787156661722874085
+    second: bg_club_background_alpha_tileset_6
+  - first:
+      213: -371321506660476122
+    second: bg_club_background_alpha_tileset_7
+  - first:
+      213: -1050477558228892230
+    second: bg_club_background_alpha_tileset_8
+  - first:
+      213: -2689504824057158924
+    second: bg_club_background_alpha_tileset_9
+  - first:
+      213: -4044383911757530070
+    second: bg_club_background_alpha_tileset_10
+  - first:
+      213: 924783100911122217
+    second: bg_club_background_alpha_tileset_11
+  - first:
+      213: 6854542803037916633
+    second: bg_club_background_alpha_tileset_12
+  - first:
+      213: -9204871309025550667
+    second: bg_club_background_alpha_tileset_13
+  - first:
+      213: 2023932525821686598
+    second: bg_club_background_alpha_tileset_14
+  - first:
+      213: 7234925985053324524
+    second: bg_club_background_alpha_tileset_15
+  - first:
+      213: -1536513951487636656
+    second: bg_club_background_alpha_tileset_16
+  - first:
+      213: -718628946838718302
+    second: bg_club_background_alpha_tileset_17
+  - first:
+      213: 8516521393464122925
+    second: bg_club_background_alpha_tileset_18
+  - first:
+      213: 8555281315150600579
+    second: bg_club_background_alpha_tileset_19
+  - first:
+      213: 1161657075920381306
+    second: bg_club_background_alpha_tileset_20
+  - first:
+      213: 2074360227477962237
+    second: bg_club_background_alpha_tileset_21
+  - first:
+      213: -3045311095488079784
+    second: bg_club_background_alpha_tileset_22
+  - first:
+      213: -5599030396806905449
+    second: bg_club_background_alpha_tileset_23
+  - first:
+      213: -1043600784043390974
+    second: bg_club_background_alpha_tileset_24
+  - first:
+      213: -3737860360141948148
+    second: bg_club_background_alpha_tileset_25
+  - first:
+      213: -6888281611094621255
+    second: bg_club_background_alpha_tileset_26
+  - first:
+      213: 1877289518843397715
+    second: bg_club_background_alpha_tileset_27
+  - first:
+      213: 7867640719851336863
+    second: bg_club_background_alpha_tileset_28
+  - first:
+      213: 8122852205270330622
+    second: bg_club_background_alpha_tileset_29
+  - first:
+      213: 6828784319760428926
+    second: bg_club_background_alpha_tileset_30
+  - first:
+      213: -5660722610988328415
+    second: bg_club_background_alpha_tileset_31
+  - first:
+      213: 3682861820452155611
+    second: bg_club_background_alpha_tileset_32
+  - first:
+      213: 121307530091951267
+    second: bg_club_background_alpha_tileset_33
+  - first:
+      213: 6403055181077966887
+    second: bg_club_background_alpha_tileset_34
+  - first:
+      213: -8408054000435952450
+    second: bg_club_background_alpha_tileset_35
+  - first:
+      213: 8741417698839462769
+    second: bg_club_background_alpha_tileset_36
+  - first:
+      213: 2151830154814875527
+    second: bg_club_background_alpha_tileset_37
+  - first:
+      213: 8911083606119538577
+    second: bg_club_background_alpha_tileset_38
+  - first:
+      213: -679951561878346742
+    second: bg_club_background_alpha_tileset_39
+  - first:
+      213: -5631587611436999565
+    second: bg_club_background_alpha_tileset_40
+  - first:
+      213: -8319843979353862462
+    second: bg_club_background_alpha_tileset_41
+  - first:
+      213: -2247880111588794561
+    second: bg_club_background_alpha_tileset_42
+  - first:
+      213: 7066028525338578004
+    second: bg_club_background_alpha_tileset_43
+  - first:
+      213: -25292743749409696
+    second: bg_club_background_alpha_tileset_44
+  - first:
+      213: 2148407973857883375
+    second: bg_club_background_alpha_tileset_45
+  - first:
+      213: -8263405616906755374
+    second: bg_club_background_alpha_tileset_46
+  - first:
+      213: 7708608655853705171
+    second: bg_club_background_alpha_tileset_47
+  - first:
+      213: -5986550728403561105
+    second: bg_club_background_alpha_tileset_48
+  - first:
+      213: -3422019269040577733
+    second: bg_club_background_alpha_tileset_49
+  - first:
+      213: -4305698677427979699
+    second: bg_club_background_alpha_tileset_50
+  - first:
+      213: -5550909983986355223
+    second: bg_club_background_alpha_tileset_51
+  - first:
+      213: -103545351551118103
+    second: bg_club_background_alpha_tileset_52
+  - first:
+      213: 7036866367395861884
+    second: bg_club_background_alpha_tileset_53
+  - first:
+      213: 7543224642489535555
+    second: bg_club_background_alpha_tileset_54
+  - first:
+      213: 481336280090801506
+    second: bg_club_background_alpha_tileset_55
+  - first:
+      213: 3540205055901002330
+    second: bg_club_background_alpha_tileset_56
+  - first:
+      213: -1863049522590019319
+    second: bg_club_background_alpha_tileset_57
+  - first:
+      213: -3628815215965937348
+    second: bg_club_background_alpha_tileset_58
+  - first:
+      213: 348774404162737020
+    second: bg_club_background_alpha_tileset_59
+  - first:
+      213: -663958364961850765
+    second: bg_club_background_alpha_tileset_60
+  - first:
+      213: 3307392951785829009
+    second: bg_club_background_alpha_tileset_61
+  - first:
+      213: 414446040460196913
+    second: bg_club_background_alpha_tileset_62
+  - first:
+      213: -160646192217305783
+    second: bg_club_background_alpha_tileset_63
+  - first:
+      213: -2965911826368530842
+    second: bg_club_background_alpha_tileset_64
+  - first:
+      213: -1939784004605624166
+    second: bg_club_background_alpha_tileset_65
+  - first:
+      213: 7393843609192421391
+    second: bg_club_background_alpha_tileset_66
+  - first:
+      213: 1498590059939199236
+    second: bg_club_background_alpha_tileset_67
+  - first:
+      213: 3924357608632954559
+    second: bg_club_background_alpha_tileset_68
+  - first:
+      213: 1844494116455509648
+    second: bg_club_background_alpha_tileset_69
+  - first:
+      213: 4641972197286998550
+    second: bg_club_background_alpha_tileset_70
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1225
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe26dc353600ce260800000000000000
+      internalID: 7128072736828383983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 935
+        width: 937
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bfc758d9b5fc000800000000000000
+      internalID: 58366052286659467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1223
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0390206ed03d6d50800000000000000
+      internalID: 6732090749642380043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1115
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c494d5e0c23e59690800000000000000
+      internalID: -7595915418131412660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 1079
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5c0e2a6a6c0c650800000000000000
+      internalID: 6251214701789758966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 719
+        width: 763
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb4483fb2e20c6c0800000000000000
+      internalID: -4125246492367369223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 899
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e00f48c9b9811c60800000000000000
+      internalID: 7787156661722874085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 917
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62b1a0a9e0dc8daf0800000000000000
+      internalID: -371321506660476122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 899
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab54f39f934fb61f0800000000000000
+      internalID: -1050477558228892230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 899
+        width: 100
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2af54bc95fcaad0800000000000000
+      internalID: -2689504824057158924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 813
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c3364a2467fd7c0800000000000000
+      internalID: -4044383911757530070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 737
+        width: 74
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9277710a45d75dc00800000000000000
+      internalID: 924783100911122217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 663
+        width: 433
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd09c8cc5a302f50800000000000000
+      internalID: 6854542803037916633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 627
+        width: 109
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bed85e505ab14080800000000000000
+      internalID: -9204871309025550667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 687
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 643f5f2b8e3761c10800000000000000
+      internalID: 2023932525821686598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 683
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4b853e9de976460800000000000000
+      internalID: 7234925985053324524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 683
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05bc521b3b43daae0800000000000000
+      internalID: -1536513951487636656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 683
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a87d52c7cae606f0800000000000000
+      internalID: -718628946838718302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 683
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e917bb513c03670800000000000000
+      internalID: 8516521393464122925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 665
+        width: 74
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389961f37077ab670800000000000000
+      internalID: 8555281315150600579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 653
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a75ad01b4f80f1010800000000000000
+      internalID: 1161657075920381306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 673
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdb50fe2ab99cc10800000000000000
+      internalID: 2074360227477962237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 677
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85890e281b1ecb5d0800000000000000
+      internalID: -3045311095488079784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 671
+        width: 48
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791c5bfd48f3c42b0800000000000000
+      internalID: -5599030396806905449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 653
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20846cbbd926481f0800000000000000
+      internalID: -1043600784043390974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 647
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0bb9b57ec3702cc0800000000000000
+      internalID: -3737860360141948148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 647
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b389d1de58e760a0800000000000000
+      internalID: -6888281611094621255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 647
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356893ffed87d0a10800000000000000
+      internalID: 1877289518843397715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 633
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f943327dc897f2d60800000000000000
+      internalID: 7867640719851336863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 633
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efce2224b0b2ab070800000000000000
+      internalID: 8122852205270330622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 503
+        width: 880
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fe31b8827b4ce50800000000000000
+      internalID: 6828784319760428926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 593
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12ad400f6c21171b0800000000000000
+      internalID: -5660722610988328415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 557
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd036e420572c1330800000000000000
+      internalID: 3682861820452155611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 557
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4f5bf4e88fea100800000000000000
+      internalID: 121307530091951267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 395
+        width: 284
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720706923c83cd850800000000000000
+      internalID: 6403055181077966887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 485
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb486b33f67905b80800000000000000
+      internalID: -8408054000435952450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 491
+        width: 126
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17383a44511cf4970800000000000000
+      internalID: 8741417698839462769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 491
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 787e6baff16dcdd10800000000000000
+      internalID: 2151830154814875527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 431
+        width: 319
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19fdf8aa3578aab70800000000000000
+      internalID: 8911083606119538577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 109
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e4c138a35096f0800000000000000
+      internalID: -679951561878346742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 359
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c9ec2a7e498d1b0800000000000000
+      internalID: -5631587611436999565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 359
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cec0ff2bf9f98c80800000000000000
+      internalID: -8319843979353862462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 359
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3f9513c2fcedc0e0800000000000000
+      internalID: -2247880111588794561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 1093
+        y: 359
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c4591a1839f0260800000000000000
+      internalID: 7066028525338578004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 359
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 064eb61326426aff0800000000000000
+      internalID: -25292743749409696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 363
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe47a626bada0dd10800000000000000
+      internalID: 2148407973857883375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 323
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d22e417f5c725d80800000000000000
+      internalID: -8263405616906755374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 329
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d759a40bba7afa60800000000000000
+      internalID: 7708608655853705171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 323
+        width: 138
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6556a3a4df7beca0800000000000000
+      internalID: -5986550728403561105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 323
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b336b4efa9b8280d0800000000000000
+      internalID: -3422019269040577733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 293
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a390e8dd51f34c0800000000000000
+      internalID: -4305698677427979699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 287
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3f25097c437f2b0800000000000000
+      internalID: -5550909983986355223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 251
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e417a62d02209ef0800000000000000
+      internalID: -103545351551118103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 251
+        width: 72
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c751680ada8f7a160800000000000000
+      internalID: 7036866367395861884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 215
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ccf8cb8daeea860800000000000000
+      internalID: 7543224642489535555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 201
+        width: 74
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265f158ebcc0ea600800000000000000
+      internalID: 481336280090801506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 143
+        width: 358
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a6505ddb5512130800000000000000
+      internalID: 3540205055901002330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 251
+        width: 74
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9019f0f745e1526e0800000000000000
+      internalID: -1863049522590019319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 107
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3161d099cbd3adc0800000000000000
+      internalID: -3628815215965937348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 35
+        width: 305
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c735ed2097817d400800000000000000
+      internalID: 348774404162737020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 143
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37abcc6826529c6f0800000000000000
+      internalID: -663958364961850765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 143
+        width: 12
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19233d7cd5836ed20800000000000000
+      internalID: 3307392951785829009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 143
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c723c5a7860c500800000000000000
+      internalID: 414446040460196913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 143
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94d4e5aa32545cdf0800000000000000
+      internalID: -160646192217305783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6667c2278e6f6d6d0800000000000000
+      internalID: -2965911826368530842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 35
+        width: 14
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a904f78a9b08415e0800000000000000
+      internalID: -1939784004605624166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_66
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 21
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f08d4ba96953c9660800000000000000
+      internalID: 7393843609192421391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_67
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 27
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4097b9a38bf0cc410800000000000000
+      internalID: 1498590059939199236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 21
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe2b22f37e167630800000000000000
+      internalID: 3924357608632954559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_69
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 0
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ee0a950a5f89910800000000000000
+      internalID: 1844494116455509648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_club_background_alpha_tileset_70
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 0
+        width: 58
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 612f7848e199b6040800000000000000
+      internalID: 4641972197286998550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_club_background_alpha_tileset_0: 7128072736828383983
+      bg_club_background_alpha_tileset_1: 58366052286659467
+      bg_club_background_alpha_tileset_10: -4044383911757530070
+      bg_club_background_alpha_tileset_11: 924783100911122217
+      bg_club_background_alpha_tileset_12: 6854542803037916633
+      bg_club_background_alpha_tileset_13: -9204871309025550667
+      bg_club_background_alpha_tileset_14: 2023932525821686598
+      bg_club_background_alpha_tileset_15: 7234925985053324524
+      bg_club_background_alpha_tileset_16: -1536513951487636656
+      bg_club_background_alpha_tileset_17: -718628946838718302
+      bg_club_background_alpha_tileset_18: 8516521393464122925
+      bg_club_background_alpha_tileset_19: 8555281315150600579
+      bg_club_background_alpha_tileset_2: 6732090749642380043
+      bg_club_background_alpha_tileset_20: 1161657075920381306
+      bg_club_background_alpha_tileset_21: 2074360227477962237
+      bg_club_background_alpha_tileset_22: -3045311095488079784
+      bg_club_background_alpha_tileset_23: -5599030396806905449
+      bg_club_background_alpha_tileset_24: -1043600784043390974
+      bg_club_background_alpha_tileset_25: -3737860360141948148
+      bg_club_background_alpha_tileset_26: -6888281611094621255
+      bg_club_background_alpha_tileset_27: 1877289518843397715
+      bg_club_background_alpha_tileset_28: 7867640719851336863
+      bg_club_background_alpha_tileset_29: 8122852205270330622
+      bg_club_background_alpha_tileset_3: -7595915418131412660
+      bg_club_background_alpha_tileset_30: 6828784319760428926
+      bg_club_background_alpha_tileset_31: -5660722610988328415
+      bg_club_background_alpha_tileset_32: 3682861820452155611
+      bg_club_background_alpha_tileset_33: 121307530091951267
+      bg_club_background_alpha_tileset_34: 6403055181077966887
+      bg_club_background_alpha_tileset_35: -8408054000435952450
+      bg_club_background_alpha_tileset_36: 8741417698839462769
+      bg_club_background_alpha_tileset_37: 2151830154814875527
+      bg_club_background_alpha_tileset_38: 8911083606119538577
+      bg_club_background_alpha_tileset_39: -679951561878346742
+      bg_club_background_alpha_tileset_4: 6251214701789758966
+      bg_club_background_alpha_tileset_40: -5631587611436999565
+      bg_club_background_alpha_tileset_41: -8319843979353862462
+      bg_club_background_alpha_tileset_42: -2247880111588794561
+      bg_club_background_alpha_tileset_43: 7066028525338578004
+      bg_club_background_alpha_tileset_44: -25292743749409696
+      bg_club_background_alpha_tileset_45: 2148407973857883375
+      bg_club_background_alpha_tileset_46: -8263405616906755374
+      bg_club_background_alpha_tileset_47: 7708608655853705171
+      bg_club_background_alpha_tileset_48: -5986550728403561105
+      bg_club_background_alpha_tileset_49: -3422019269040577733
+      bg_club_background_alpha_tileset_5: -4125246492367369223
+      bg_club_background_alpha_tileset_50: -4305698677427979699
+      bg_club_background_alpha_tileset_51: -5550909983986355223
+      bg_club_background_alpha_tileset_52: -103545351551118103
+      bg_club_background_alpha_tileset_53: 7036866367395861884
+      bg_club_background_alpha_tileset_54: 7543224642489535555
+      bg_club_background_alpha_tileset_55: 481336280090801506
+      bg_club_background_alpha_tileset_56: 3540205055901002330
+      bg_club_background_alpha_tileset_57: -1863049522590019319
+      bg_club_background_alpha_tileset_58: -3628815215965937348
+      bg_club_background_alpha_tileset_59: 348774404162737020
+      bg_club_background_alpha_tileset_6: 7787156661722874085
+      bg_club_background_alpha_tileset_60: -663958364961850765
+      bg_club_background_alpha_tileset_61: 3307392951785829009
+      bg_club_background_alpha_tileset_62: 414446040460196913
+      bg_club_background_alpha_tileset_63: -160646192217305783
+      bg_club_background_alpha_tileset_64: -2965911826368530842
+      bg_club_background_alpha_tileset_65: -1939784004605624166
+      bg_club_background_alpha_tileset_66: 7393843609192421391
+      bg_club_background_alpha_tileset_67: 1498590059939199236
+      bg_club_background_alpha_tileset_68: 3924357608632954559
+      bg_club_background_alpha_tileset_69: 1844494116455509648
+      bg_club_background_alpha_tileset_7: -371321506660476122
+      bg_club_background_alpha_tileset_70: 4641972197286998550
+      bg_club_background_alpha_tileset_8: -1050477558228892230
+      bg_club_background_alpha_tileset_9: -2689504824057158924
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

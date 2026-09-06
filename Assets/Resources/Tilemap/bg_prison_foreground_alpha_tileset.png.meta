@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: 0fca87f70dcbd4142867a7e98943f315
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4490718869269038916
+    second: bg_prison_foreground_alpha_tileset_0
+  - first:
+      213: 6249180324722581302
+    second: bg_prison_foreground_alpha_tileset_1
+  - first:
+      213: 246916499662645563
+    second: bg_prison_foreground_alpha_tileset_2
+  - first:
+      213: 6920404484857819957
+    second: bg_prison_foreground_alpha_tileset_3
+  - first:
+      213: 6002184085344271177
+    second: bg_prison_foreground_alpha_tileset_4
+  - first:
+      213: -177392156448947706
+    second: bg_prison_foreground_alpha_tileset_5
+  - first:
+      213: 4781381813006639220
+    second: bg_prison_foreground_alpha_tileset_6
+  - first:
+      213: 7355340957255005985
+    second: bg_prison_foreground_alpha_tileset_7
+  - first:
+      213: -4522356631807215214
+    second: bg_prison_foreground_alpha_tileset_8
+  - first:
+      213: 391821929276309721
+    second: bg_prison_foreground_alpha_tileset_9
+  - first:
+      213: -7367743289699981338
+    second: bg_prison_foreground_alpha_tileset_10
+  - first:
+      213: -2028376930163071840
+    second: bg_prison_foreground_alpha_tileset_11
+  - first:
+      213: 2944449877679248667
+    second: bg_prison_foreground_alpha_tileset_12
+  - first:
+      213: 123878382816759638
+    second: bg_prison_foreground_alpha_tileset_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 973
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447ccecc40d325e30800000000000000
+      internalID: 4490718869269038916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 791
+        width: 614
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f1370556c89b650800000000000000
+      internalID: 6249180324722581302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 143
+        width: 614
+        height: 614
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b39239b8f393d6300800000000000000
+      internalID: 246916499662645563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 575
+        width: 325
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53378fd86373a0060800000000000000
+      internalID: 6920404484857819957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 431
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bb27bef9a0c4350800000000000000
+      internalID: 6002184085344271177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 431
+        width: 74
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6028be806c6c98df0800000000000000
+      internalID: -177392156448947706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 323
+        width: 74
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47026c31d61ea5240800000000000000
+      internalID: 4781381813006639220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 323
+        width: 146
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127f01f51ab631660800000000000000
+      internalID: 7355340957255005985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 215
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 299bf759a9c5d31c0800000000000000
+      internalID: -4522356631807215214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 215
+        width: 74
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d009bdf7f7007500800000000000000
+      internalID: 391821929276309721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e72a25938480c990800000000000000
+      internalID: -7367743289699981338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 110
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a46807cde1c9d3e0800000000000000
+      internalID: -2028376930163071840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 35
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b15930a3099ccd820800000000000000
+      internalID: 2944449877679248667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_prison_foreground_alpha_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 35
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f842b9bba18b100800000000000000
+      internalID: 123878382816759638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_prison_foreground_alpha_tileset_0: 4490718869269038916
+      bg_prison_foreground_alpha_tileset_1: 6249180324722581302
+      bg_prison_foreground_alpha_tileset_10: -7367743289699981338
+      bg_prison_foreground_alpha_tileset_11: -2028376930163071840
+      bg_prison_foreground_alpha_tileset_12: 2944449877679248667
+      bg_prison_foreground_alpha_tileset_13: 123878382816759638
+      bg_prison_foreground_alpha_tileset_2: 246916499662645563
+      bg_prison_foreground_alpha_tileset_3: 6920404484857819957
+      bg_prison_foreground_alpha_tileset_4: 6002184085344271177
+      bg_prison_foreground_alpha_tileset_5: -177392156448947706
+      bg_prison_foreground_alpha_tileset_6: 4781381813006639220
+      bg_prison_foreground_alpha_tileset_7: 7355340957255005985
+      bg_prison_foreground_alpha_tileset_8: -4522356631807215214
+      bg_prison_foreground_alpha_tileset_9: 391821929276309721
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

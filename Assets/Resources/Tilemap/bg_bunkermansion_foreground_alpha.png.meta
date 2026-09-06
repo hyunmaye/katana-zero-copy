@@ -1,0 +1,663 @@
+fileFormatVersion: 2
+guid: e0eadfd8e9ab5914981015715a84f114
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6904696241955645134
+    second: bg_bunkermansion_foreground_alpha_0
+  - first:
+      213: 9003090894268659996
+    second: bg_bunkermansion_foreground_alpha_1
+  - first:
+      213: -3894164170567680458
+    second: bg_bunkermansion_foreground_alpha_2
+  - first:
+      213: 6483065450144576991
+    second: bg_bunkermansion_foreground_alpha_3
+  - first:
+      213: 6316332098529131980
+    second: bg_bunkermansion_foreground_alpha_4
+  - first:
+      213: 689498099643539159
+    second: bg_bunkermansion_foreground_alpha_5
+  - first:
+      213: -2864685847732913481
+    second: bg_bunkermansion_foreground_alpha_6
+  - first:
+      213: 4193118109180263155
+    second: bg_bunkermansion_foreground_alpha_7
+  - first:
+      213: 2584944130279219669
+    second: bg_bunkermansion_foreground_alpha_8
+  - first:
+      213: 2828226291978655239
+    second: bg_bunkermansion_foreground_alpha_9
+  - first:
+      213: 5018485074075150538
+    second: bg_bunkermansion_foreground_alpha_10
+  - first:
+      213: -8565247770074397273
+    second: bg_bunkermansion_foreground_alpha_11
+  - first:
+      213: -2423223781675833722
+    second: bg_bunkermansion_foreground_alpha_12
+  - first:
+      213: 6249239842328338109
+    second: bg_bunkermansion_foreground_alpha_13
+  - first:
+      213: -210146045211722052
+    second: bg_bunkermansion_foreground_alpha_14
+  - first:
+      213: 6339914957203687682
+    second: bg_bunkermansion_foreground_alpha_15
+  - first:
+      213: -6022977812735109130
+    second: bg_bunkermansion_foreground_alpha_16
+  - first:
+      213: -1411047288935970212
+    second: bg_bunkermansion_foreground_alpha_17
+  - first:
+      213: -2682395604670083200
+    second: bg_bunkermansion_foreground_alpha_18
+  - first:
+      213: -4963499222016755884
+    second: bg_bunkermansion_foreground_alpha_19
+  - first:
+      213: -2448283154919692650
+    second: bg_bunkermansion_foreground_alpha_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 541
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2395240c9579d20a0800000000000000
+      internalID: -6904696241955645134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 539
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19ff69c77761fc70800000000000000
+      internalID: 9003090894268659996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 571
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e724ca15625f9c0800000000000000
+      internalID: -3894164170567680458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_3
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 539
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5b97b9da978f950800000000000000
+      internalID: 6483065450144576991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_4
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 539
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdf938049e18a750800000000000000
+      internalID: 6316332098529131980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_5
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 571
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7de5f865ed6919900800000000000000
+      internalID: 689498099643539159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 401
+        width: 109
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba7ac436679e38d0800000000000000
+      internalID: -2864685847732913481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_7
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 431
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa72f644b2f03a30800000000000000
+      internalID: 4193118109180263155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_8
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 461
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d12689adf09fd320800000000000000
+      internalID: 2584944130279219669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 451
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706dec5f3d0ef3720800000000000000
+      internalID: 2828226291978655239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_10
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 395
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac869d6f59d35a540800000000000000
+      internalID: 5018485074075150538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_11
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 395
+        width: 72
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a54283a880222980800000000000000
+      internalID: -8565247770074397273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_12
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 395
+        width: 73
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686eee13fcafe5ed0800000000000000
+      internalID: -2423223781675833722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_13
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 431
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbed236d682c9b650800000000000000
+      internalID: 6249239842328338109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_14
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 395
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbeb3380949651df0800000000000000
+      internalID: -210146045211722052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 359
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209cf423017ebf750800000000000000
+      internalID: 6339914957203687682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_16
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f75dd527951a6ca0800000000000000
+      internalID: -6022977812735109130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_17
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a81bd77f3fa6ce0800000000000000
+      internalID: -1411047288935970212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_18
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 395
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f0294d86736cad0800000000000000
+      internalID: -2682395604670083200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 576
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45773cc51cb1e1bb0800000000000000
+      internalID: -4963499222016755884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_bunkermansion_foreground_alpha_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 217
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69660713173f50ed0800000000000000
+      internalID: -2448283154919692650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_bunkermansion_foreground_alpha_0: -6904696241955645134
+      bg_bunkermansion_foreground_alpha_1: 9003090894268659996
+      bg_bunkermansion_foreground_alpha_10: 5018485074075150538
+      bg_bunkermansion_foreground_alpha_11: -8565247770074397273
+      bg_bunkermansion_foreground_alpha_12: -2423223781675833722
+      bg_bunkermansion_foreground_alpha_13: 6249239842328338109
+      bg_bunkermansion_foreground_alpha_14: -210146045211722052
+      bg_bunkermansion_foreground_alpha_15: 6339914957203687682
+      bg_bunkermansion_foreground_alpha_16: -6022977812735109130
+      bg_bunkermansion_foreground_alpha_17: -1411047288935970212
+      bg_bunkermansion_foreground_alpha_18: -2682395604670083200
+      bg_bunkermansion_foreground_alpha_19: -4963499222016755884
+      bg_bunkermansion_foreground_alpha_2: -3894164170567680458
+      bg_bunkermansion_foreground_alpha_20: -2448283154919692650
+      bg_bunkermansion_foreground_alpha_3: 6483065450144576991
+      bg_bunkermansion_foreground_alpha_4: 6316332098529131980
+      bg_bunkermansion_foreground_alpha_5: 689498099643539159
+      bg_bunkermansion_foreground_alpha_6: -2864685847732913481
+      bg_bunkermansion_foreground_alpha_7: 4193118109180263155
+      bg_bunkermansion_foreground_alpha_8: 2584944130279219669
+      bg_bunkermansion_foreground_alpha_9: 2828226291978655239
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

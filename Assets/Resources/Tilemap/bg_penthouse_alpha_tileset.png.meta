@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: 1eaf0155ddef3ca45a45f6bd191fa3cd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2090184289081609648
+    second: bg_penthouse_alpha_tileset_0
+  - first:
+      213: -2105949761557053393
+    second: bg_penthouse_alpha_tileset_1
+  - first:
+      213: -4187707443121668173
+    second: bg_penthouse_alpha_tileset_2
+  - first:
+      213: 5192196122954308116
+    second: bg_penthouse_alpha_tileset_3
+  - first:
+      213: 7889215873757535677
+    second: bg_penthouse_alpha_tileset_4
+  - first:
+      213: -5674897357637364916
+    second: bg_penthouse_alpha_tileset_5
+  - first:
+      213: 1310049743246111742
+    second: bg_penthouse_alpha_tileset_6
+  - first:
+      213: 8658037722759715432
+    second: bg_penthouse_alpha_tileset_7
+  - first:
+      213: 3313503165189154165
+    second: bg_penthouse_alpha_tileset_8
+  - first:
+      213: 2928578306924915054
+    second: bg_penthouse_alpha_tileset_9
+  - first:
+      213: 7147148854571778750
+    second: bg_penthouse_alpha_tileset_10
+  - first:
+      213: -8874640412299293226
+    second: bg_penthouse_alpha_tileset_11
+  - first:
+      213: -2665827147005568962
+    second: bg_penthouse_alpha_tileset_12
+  - first:
+      213: 7005819890434776346
+    second: bg_penthouse_alpha_tileset_13
+  - first:
+      213: 3191665969224228346
+    second: bg_penthouse_alpha_tileset_14
+  - first:
+      213: 3720976972069007119
+    second: bg_penthouse_alpha_tileset_15
+  - first:
+      213: 5990625249129516113
+    second: bg_penthouse_alpha_tileset_16
+  - first:
+      213: -3014634682245547141
+    second: bg_penthouse_alpha_tileset_17
+  - first:
+      213: -4434621594131127583
+    second: bg_penthouse_alpha_tileset_18
+  - first:
+      213: 3555295244890831388
+    second: bg_penthouse_alpha_tileset_19
+  - first:
+      213: -3929357694868858569
+    second: bg_penthouse_alpha_tileset_20
+  - first:
+      213: 2606101590614077118
+    second: bg_penthouse_alpha_tileset_21
+  - first:
+      213: 1939406617865965150
+    second: bg_penthouse_alpha_tileset_22
+  - first:
+      213: 4625295759454897979
+    second: bg_penthouse_alpha_tileset_23
+  - first:
+      213: 1339715366982432115
+    second: bg_penthouse_alpha_tileset_24
+  - first:
+      213: -8629447379040451592
+    second: bg_penthouse_alpha_tileset_25
+  - first:
+      213: -2648527045987626724
+    second: bg_penthouse_alpha_tileset_26
+  - first:
+      213: -6633895243538389189
+    second: bg_penthouse_alpha_tileset_27
+  - first:
+      213: 5559324267745117953
+    second: bg_penthouse_alpha_tileset_28
+  - first:
+      213: -1765168161797060380
+    second: bg_penthouse_alpha_tileset_29
+  - first:
+      213: 7373835918532810673
+    second: bg_penthouse_alpha_tileset_30
+  - first:
+      213: -8096974278567720318
+    second: bg_penthouse_alpha_tileset_31
+  - first:
+      213: 5986524964518285606
+    second: bg_penthouse_alpha_tileset_32
+  - first:
+      213: -7385278887380993792
+    second: bg_penthouse_alpha_tileset_33
+  - first:
+      213: 3238992713839236438
+    second: bg_penthouse_alpha_tileset_34
+  - first:
+      213: 5037610997243822488
+    second: bg_penthouse_alpha_tileset_35
+  - first:
+      213: 3882756108579910002
+    second: bg_penthouse_alpha_tileset_36
+  - first:
+      213: -5830510215484024667
+    second: bg_penthouse_alpha_tileset_37
+  - first:
+      213: 8450286888493631607
+    second: bg_penthouse_alpha_tileset_38
+  - first:
+      213: 2934821503646678075
+    second: bg_penthouse_alpha_tileset_39
+  - first:
+      213: -3227360793766335642
+    second: bg_penthouse_alpha_tileset_40
+  - first:
+      213: -8934156897808847179
+    second: bg_penthouse_alpha_tileset_41
+  - first:
+      213: 6110277688733382234
+    second: bg_penthouse_alpha_tileset_42
+  - first:
+      213: 8370087788829918546
+    second: bg_penthouse_alpha_tileset_43
+  - first:
+      213: -8360555997636029709
+    second: bg_penthouse_alpha_tileset_44
+  - first:
+      213: -7042731625996364769
+    second: bg_penthouse_alpha_tileset_45
+  - first:
+      213: 7569649181394115225
+    second: bg_penthouse_alpha_tileset_46
+  - first:
+      213: -195699415873946088
+    second: bg_penthouse_alpha_tileset_47
+  - first:
+      213: -8055507251127179104
+    second: bg_penthouse_alpha_tileset_48
+  - first:
+      213: -7800944629337730102
+    second: bg_penthouse_alpha_tileset_49
+  - first:
+      213: 6129917262987935744
+    second: bg_penthouse_alpha_tileset_50
+  - first:
+      213: -5026232358225496550
+    second: bg_penthouse_alpha_tileset_51
+  - first:
+      213: -625606430442014784
+    second: bg_penthouse_alpha_tileset_52
+  - first:
+      213: -2895495012794598656
+    second: bg_penthouse_alpha_tileset_53
+  - first:
+      213: -6460172185790447364
+    second: bg_penthouse_alpha_tileset_54
+  - first:
+      213: 6023213036372295633
+    second: bg_penthouse_alpha_tileset_55
+  - first:
+      213: -2172388669613065266
+    second: bg_penthouse_alpha_tileset_56
+  - first:
+      213: -6760386635142248307
+    second: bg_penthouse_alpha_tileset_57
+  - first:
+      213: -2982499764530876944
+    second: bg_penthouse_alpha_tileset_58
+  - first:
+      213: 1659606056483064657
+    second: bg_penthouse_alpha_tileset_59
+  - first:
+      213: -4039325553175400553
+    second: bg_penthouse_alpha_tileset_60
+  - first:
+      213: 1000156806260209360
+    second: bg_penthouse_alpha_tileset_61
+  - first:
+      213: 5022887028261190745
+    second: bg_penthouse_alpha_tileset_62
+  - first:
+      213: 5497058176567787145
+    second: bg_penthouse_alpha_tileset_63
+  - first:
+      213: 1669445808537887192
+    second: bg_penthouse_alpha_tileset_64
+  - first:
+      213: 2042634755713962900
+    second: bg_penthouse_alpha_tileset_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 829
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdcfc16983d10d10800000000000000
+      internalID: 2090184289081609648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1225
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20c29389d926c2e0800000000000000
+      internalID: -2105949761557053393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1223
+        width: 110
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bf3975944642e5c0800000000000000
+      internalID: -4187707443121668173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 935
+        width: 685
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41a1ad84dd26e0840800000000000000
+      internalID: 5192196122954308116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 935
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbdd0bfc9002c7d60800000000000000
+      internalID: 7889215873757535677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 899
+        width: 172
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43d83d8be6be31b0800000000000000
+      internalID: -5674897357637364916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 971
+        width: 152
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3b640fc4b3e2210800000000000000
+      internalID: 1310049743246111742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 899
+        width: 224
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86a5605cf67872870800000000000000
+      internalID: 8658037722759715432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 827
+        width: 145
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5756b33b29debfd20800000000000000
+      internalID: 3313503165189154165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 791
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69ac21347664a820800000000000000
+      internalID: 2928578306924915054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 899
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb247991406cf2360800000000000000
+      internalID: 7147148854571778750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 791
+        width: 62
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd039b9091f6d480800000000000000
+      internalID: -8874640412299293226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 863
+        width: 110
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38d32e7554110bd0800000000000000
+      internalID: -2665827147005568962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 863
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d1bb9621ca93160800000000000000
+      internalID: 7005819890434776346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 863
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd1051f9431b4c20800000000000000
+      internalID: 3191665969224228346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 755
+        width: 110
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fe49d67d093a330800000000000000
+      internalID: 3720976972069007119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_16
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 827
+        width: 28
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cc9d4ace9f22350800000000000000
+      internalID: 5990625249129516113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_17
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 899
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b7e2d8abdd926d0800000000000000
+      internalID: -3014634682245547141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_18
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 863
+        width: 7
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2a980e72f0572c0800000000000000
+      internalID: -4434621594131127583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 683
+        width: 433
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a7a5f3032f65130800000000000000
+      internalID: 3555295244890831388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_20
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 827
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 739d4e1cefd1879c0800000000000000
+      internalID: -3929357694868858569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_21
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 791
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebee125c69bba2420800000000000000
+      internalID: 2606101590614077118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_22
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 755
+        width: 218
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e41f42b082aea10800000000000000
+      internalID: 1939406617865965150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_23
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 683
+        width: 413
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b370e63ccf9503040800000000000000
+      internalID: 4625295759454897979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_24
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 827
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375be153700a79210800000000000000
+      internalID: 1339715366982432115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_25
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 791
+        width: 104
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f34e5c545b0e3880800000000000000
+      internalID: -8629447379040451592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_26
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 827
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1194e52faa8e3bd0800000000000000
+      internalID: -2648527045987626724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_27
+      rect:
+        serializedVersion: 2
+        x: 1115
+        y: 797
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b37adb38c6bafe3a0800000000000000
+      internalID: -6633895243538389189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_28
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 683
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107082a87ffa62d40800000000000000
+      internalID: 5559324267745117953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_29
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 683
+        width: 28
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e8c14bb8ecd087e0800000000000000
+      internalID: -1765168161797060380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_30
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 647
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b71a2c13b0255660800000000000000
+      internalID: 7373835918532810673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_31
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 647
+        width: 136
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a0f721bc4c1af80800000000000000
+      internalID: -8096974278567720318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_32
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 647
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 621de1dbcb8641350800000000000000
+      internalID: 5986524964518285606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_33
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 611
+        width: 206
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 009b6761bf7328990800000000000000
+      internalID: -7385278887380993792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_34
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 617
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655577a56b633fc20800000000000000
+      internalID: 3238992713839236438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 575
+        width: 141
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891c157f28039e540800000000000000
+      internalID: 5037610997243822488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_36
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 539
+        width: 286
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2713269eb1252e530800000000000000
+      internalID: 3882756108579910002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_37
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 611
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a8d9c2b9ddd51fa0800000000000000
+      internalID: -5830510215484024667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_38
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 611
+        width: 6
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 778cdce4723754570800000000000000
+      internalID: 8450286888493631607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_39
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 607
+        width: 38
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3cb904bb949ab820800000000000000
+      internalID: 2934821503646678075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_40
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 611
+        width: 8
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66be885157c1633d0800000000000000
+      internalID: -3227360793766335642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_41
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 619
+        width: 145
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be6f7af2af730480800000000000000
+      internalID: -8934156897808847179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_42
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 611
+        width: 145
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56b2fb2f211cc450800000000000000
+      internalID: 6110277688733382234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 575
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255ca005f76882470800000000000000
+      internalID: 8370087788829918546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_44
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 579
+        width: 60
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f29424cd9659fb80800000000000000
+      internalID: -8360555997636029709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_45
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 575
+        width: 34
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14d31076e0334e90800000000000000
+      internalID: -7042731625996364769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_46
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 557
+        width: 34
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a925323dbcc0960800000000000000
+      internalID: 7569649181394115225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_47
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 503
+        width: 218
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ef41a0b6cb84df0800000000000000
+      internalID: -195699415873946088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_48
+      rect:
+        serializedVersion: 2
+        x: 1043
+        y: 539
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a82bf2c5d6153090800000000000000
+      internalID: -8055507251127179104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 431
+        width: 65
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac355d7d03a7db390800000000000000
+      internalID: -7800944629337730102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_50
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 467
+        width: 18
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0004ee2e547d11550800000000000000
+      internalID: 6129917262987935744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_51
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 431
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a163561ec4c3f3ab0800000000000000
+      internalID: -5026232358225496550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_52
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 467
+        width: 218
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c7bd4024466157f0800000000000000
+      internalID: -625606430442014784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_53
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 395
+        width: 227
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b767970a221d7d0800000000000000
+      internalID: -2895495012794598656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_54
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 431
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf00a1edf9bd856a0800000000000000
+      internalID: -6460172185790447364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_55
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 343
+        width: 308
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dff87f1850c69350800000000000000
+      internalID: 6023213036372295633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_56
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 395
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb31a9c3002ad1e0800000000000000
+      internalID: -2172388669613065266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_57
+      rect:
+        serializedVersion: 2
+        x: 971
+        y: 359
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d884c046c284e22a0800000000000000
+      internalID: -6760386635142248307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_58
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 295
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd637024480c96d0800000000000000
+      internalID: -2982499764530876944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_59
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 287
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b82c75aea180710800000000000000
+      internalID: 1659606056483064657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_60
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 287
+        width: 130
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f62d68fce61f7c0800000000000000
+      internalID: -4039325553175400553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_61
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 251
+        width: 254
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d634d4f05541ed00800000000000000
+      internalID: 1000156806260209360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_62
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 215
+        width: 228
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cfc6ac321e4b540800000000000000
+      internalID: 5022887028261190745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_63
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 179
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ebaf37949794c40800000000000000
+      internalID: 5497058176567787145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_64
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 179
+        width: 182
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d16aa52e101b2710800000000000000
+      internalID: 1669445808537887192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_penthouse_alpha_tileset_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 107
+        width: 181
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493923cec75e85c10800000000000000
+      internalID: 2042634755713962900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_penthouse_alpha_tileset_0: 2090184289081609648
+      bg_penthouse_alpha_tileset_1: -2105949761557053393
+      bg_penthouse_alpha_tileset_10: 7147148854571778750
+      bg_penthouse_alpha_tileset_11: -8874640412299293226
+      bg_penthouse_alpha_tileset_12: -2665827147005568962
+      bg_penthouse_alpha_tileset_13: 7005819890434776346
+      bg_penthouse_alpha_tileset_14: 3191665969224228346
+      bg_penthouse_alpha_tileset_15: 3720976972069007119
+      bg_penthouse_alpha_tileset_16: 5990625249129516113
+      bg_penthouse_alpha_tileset_17: -3014634682245547141
+      bg_penthouse_alpha_tileset_18: -4434621594131127583
+      bg_penthouse_alpha_tileset_19: 3555295244890831388
+      bg_penthouse_alpha_tileset_2: -4187707443121668173
+      bg_penthouse_alpha_tileset_20: -3929357694868858569
+      bg_penthouse_alpha_tileset_21: 2606101590614077118
+      bg_penthouse_alpha_tileset_22: 1939406617865965150
+      bg_penthouse_alpha_tileset_23: 4625295759454897979
+      bg_penthouse_alpha_tileset_24: 1339715366982432115
+      bg_penthouse_alpha_tileset_25: -8629447379040451592
+      bg_penthouse_alpha_tileset_26: -2648527045987626724
+      bg_penthouse_alpha_tileset_27: -6633895243538389189
+      bg_penthouse_alpha_tileset_28: 5559324267745117953
+      bg_penthouse_alpha_tileset_29: -1765168161797060380
+      bg_penthouse_alpha_tileset_3: 5192196122954308116
+      bg_penthouse_alpha_tileset_30: 7373835918532810673
+      bg_penthouse_alpha_tileset_31: -8096974278567720318
+      bg_penthouse_alpha_tileset_32: 5986524964518285606
+      bg_penthouse_alpha_tileset_33: -7385278887380993792
+      bg_penthouse_alpha_tileset_34: 3238992713839236438
+      bg_penthouse_alpha_tileset_35: 5037610997243822488
+      bg_penthouse_alpha_tileset_36: 3882756108579910002
+      bg_penthouse_alpha_tileset_37: -5830510215484024667
+      bg_penthouse_alpha_tileset_38: 8450286888493631607
+      bg_penthouse_alpha_tileset_39: 2934821503646678075
+      bg_penthouse_alpha_tileset_4: 7889215873757535677
+      bg_penthouse_alpha_tileset_40: -3227360793766335642
+      bg_penthouse_alpha_tileset_41: -8934156897808847179
+      bg_penthouse_alpha_tileset_42: 6110277688733382234
+      bg_penthouse_alpha_tileset_43: 8370087788829918546
+      bg_penthouse_alpha_tileset_44: -8360555997636029709
+      bg_penthouse_alpha_tileset_45: -7042731625996364769
+      bg_penthouse_alpha_tileset_46: 7569649181394115225
+      bg_penthouse_alpha_tileset_47: -195699415873946088
+      bg_penthouse_alpha_tileset_48: -8055507251127179104
+      bg_penthouse_alpha_tileset_49: -7800944629337730102
+      bg_penthouse_alpha_tileset_5: -5674897357637364916
+      bg_penthouse_alpha_tileset_50: 6129917262987935744
+      bg_penthouse_alpha_tileset_51: -5026232358225496550
+      bg_penthouse_alpha_tileset_52: -625606430442014784
+      bg_penthouse_alpha_tileset_53: -2895495012794598656
+      bg_penthouse_alpha_tileset_54: -6460172185790447364
+      bg_penthouse_alpha_tileset_55: 6023213036372295633
+      bg_penthouse_alpha_tileset_56: -2172388669613065266
+      bg_penthouse_alpha_tileset_57: -6760386635142248307
+      bg_penthouse_alpha_tileset_58: -2982499764530876944
+      bg_penthouse_alpha_tileset_59: 1659606056483064657
+      bg_penthouse_alpha_tileset_6: 1310049743246111742
+      bg_penthouse_alpha_tileset_60: -4039325553175400553
+      bg_penthouse_alpha_tileset_61: 1000156806260209360
+      bg_penthouse_alpha_tileset_62: 5022887028261190745
+      bg_penthouse_alpha_tileset_63: 5497058176567787145
+      bg_penthouse_alpha_tileset_64: 1669445808537887192
+      bg_penthouse_alpha_tileset_65: 2042634755713962900
+      bg_penthouse_alpha_tileset_7: 8658037722759715432
+      bg_penthouse_alpha_tileset_8: 3313503165189154165
+      bg_penthouse_alpha_tileset_9: 2928578306924915054
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

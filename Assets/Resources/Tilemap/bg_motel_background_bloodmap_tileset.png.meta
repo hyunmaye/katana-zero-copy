@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: e18777f957b191248b2d2a6e03a10c10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7165178927840682538
+    second: bg_motel_background_bloodmap_tileset_0
+  - first:
+      213: 8497532398226004315
+    second: bg_motel_background_bloodmap_tileset_1
+  - first:
+      213: -7267641257132220808
+    second: bg_motel_background_bloodmap_tileset_2
+  - first:
+      213: 1313400737271311704
+    second: bg_motel_background_bloodmap_tileset_3
+  - first:
+      213: -8575162871620860294
+    second: bg_motel_background_bloodmap_tileset_4
+  - first:
+      213: -1942496214969031429
+    second: bg_motel_background_bloodmap_tileset_5
+  - first:
+      213: -6253230429253546574
+    second: bg_motel_background_bloodmap_tileset_6
+  - first:
+      213: -639119917383729223
+    second: bg_motel_background_bloodmap_tileset_7
+  - first:
+      213: 5077558900811484551
+    second: bg_motel_background_bloodmap_tileset_8
+  - first:
+      213: 6384195566253775439
+    second: bg_motel_background_bloodmap_tileset_9
+  - first:
+      213: 4529688380700546405
+    second: bg_motel_background_bloodmap_tileset_10
+  - first:
+      213: 2550014115592823756
+    second: bg_motel_background_bloodmap_tileset_11
+  - first:
+      213: 7445506810252243596
+    second: bg_motel_background_bloodmap_tileset_12
+  - first:
+      213: 5313794162688151225
+    second: bg_motel_background_bloodmap_tileset_13
+  - first:
+      213: -955244729335096093
+    second: bg_motel_background_bloodmap_tileset_14
+  - first:
+      213: 7632675835914976500
+    second: bg_motel_background_bloodmap_tileset_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 505
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22ee0aa544df6360800000000000000
+      internalID: 7165178927840682538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_1
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 503
+        width: 182
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5952afb1bc4de570800000000000000
+      internalID: 8497532398226004315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 395
+        width: 182
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e19a148c6242b90800000000000000
+      internalID: -7267641257132220808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_3
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 521
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85deac803032a3210800000000000000
+      internalID: 1313400737271311704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_4
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 485
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a768be92dc6eef880800000000000000
+      internalID: -8575162871620860294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_5
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 485
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4ea39fbfdda05e0800000000000000
+      internalID: -1942496214969031429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 413
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdcdad3e001839a0800000000000000
+      internalID: -6253230429253546574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_7
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 413
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bf377342d36127f0800000000000000
+      internalID: -639119917383729223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_8
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 377
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78dcdf01bec177640800000000000000
+      internalID: 5077558900811484551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_9
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 359
+        width: 74
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a1e27ea08399850800000000000000
+      internalID: 6384195566253775439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_10
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 251
+        width: 138
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 565deda359facde30800000000000000
+      internalID: 4529688380700546405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_11
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 215
+        width: 109
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3642cd358736320800000000000000
+      internalID: 2550014115592823756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_12
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 179
+        width: 110
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8236d5fef0c35760800000000000000
+      internalID: 7445506810252243596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 0
+        width: 110
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be429423a36eb940800000000000000
+      internalID: 5313794162688151225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_14
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 0
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecda62daf94eb2f0800000000000000
+      internalID: -955244729335096093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bg_motel_background_bloodmap_tileset_15
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 0
+        width: 110
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc7b6dab36bce960800000000000000
+      internalID: 7632675835914976500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bg_motel_background_bloodmap_tileset_0: 7165178927840682538
+      bg_motel_background_bloodmap_tileset_1: 8497532398226004315
+      bg_motel_background_bloodmap_tileset_10: 4529688380700546405
+      bg_motel_background_bloodmap_tileset_11: 2550014115592823756
+      bg_motel_background_bloodmap_tileset_12: 7445506810252243596
+      bg_motel_background_bloodmap_tileset_13: 5313794162688151225
+      bg_motel_background_bloodmap_tileset_14: -955244729335096093
+      bg_motel_background_bloodmap_tileset_15: 7632675835914976500
+      bg_motel_background_bloodmap_tileset_2: -7267641257132220808
+      bg_motel_background_bloodmap_tileset_3: 1313400737271311704
+      bg_motel_background_bloodmap_tileset_4: -8575162871620860294
+      bg_motel_background_bloodmap_tileset_5: -1942496214969031429
+      bg_motel_background_bloodmap_tileset_6: -6253230429253546574
+      bg_motel_background_bloodmap_tileset_7: -639119917383729223
+      bg_motel_background_bloodmap_tileset_8: 5077558900811484551
+      bg_motel_background_bloodmap_tileset_9: 6384195566253775439
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
