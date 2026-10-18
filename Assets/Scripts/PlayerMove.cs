@@ -27,6 +27,16 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private float groundCheckRadius = 0.1f;
 
+    [Header("Wall Check")]
+    [SerializeField] private Transform wallCheckLeft;
+    [SerializeField] private Transform wallChecRight;
+    [SerializeFIeld] private Vector2 wallCheckSize = new Vector2 (0.1f, 3f);
+    [SerializeFIeld] private LayerMask wallLayer;
+    [SerializeField] private 
+
+
+     bool isWallLeft;
+     bool isWallRight;
      bool isGrounded;
      
 
@@ -36,12 +46,13 @@ public class PlayerMove : MonoBehaviour
 
           rb.linearVelocity = new Vector2(moveinput.x * moveSpeed, rb.linearVelocity.y);
 
-        //점프
+        //땅 체크
         isGrounded = Physics2D.OverlapCircle(
         groundCheck.position,
         groundCheckRadius,
         groundLayer
         ) != null;
+        //점프
         if (jumpAction.action.WasPressedThisFrame() && isGrounded)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
@@ -50,6 +61,18 @@ public class PlayerMove : MonoBehaviour
         if (jumpAction.action.WasReleasedThisFrame() && rb.linearVelocity.y > 0f)
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+        }
+        //벽타기 
+        
+        isWallLeft = Physics2D.OverlapBox(
+        wallCheckLeft.position, new Vector2(0.1f, 3f), 0f, wallLayer
+       );
+        isWallRight = Physics2D.OverlapBox(
+        wallCheckRight.position, new Vector2(0.1f, 3f), 0f, wallLayer
+        );
+        if (!isGrounded && (isWallLeft || isWallRight))
+        {
+
         }
     }
 
