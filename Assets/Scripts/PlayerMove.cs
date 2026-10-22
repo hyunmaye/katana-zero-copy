@@ -30,14 +30,18 @@ public class PlayerMove : MonoBehaviour
     [Header("Wall Check")]
     [SerializeField] private Transform wallCheckLeft;
     [SerializeField] private Transform wallChecRight;
-    [SerializeFIeld] private Vector2 wallCheckSize = new Vector2 (0.1f, 3f);
-    [SerializeFIeld] private LayerMask wallLayer;
-    [SerializeField] private 
+    [SerializeField] private Vector2 wallCheckSize = new Vector2 (0.1f, 3f);
+    [SerializeField] private float wallCheckRadius = 0f;
+    [SerializeField] private LayerMask wallLayer;
+    [SerializeField] private float wallSlideSpeed = 2f;
+    [SerializeField] private float wallHangTime = 0.15f;
 
-
-     bool isWallLeft;
-     bool isWallRight;
-     bool isGrounded;
+    float wallHangTimer;
+    bool isWallAttached;
+    bool isWallLeft;
+    bool isWallRight;
+    bool isGrounded;
+     
      
 
     private void Update()
@@ -65,14 +69,37 @@ public class PlayerMove : MonoBehaviour
         //벽타기 
         
         isWallLeft = Physics2D.OverlapBox(
-        wallCheckLeft.position, new Vector2(0.1f, 3f), 0f, wallLayer
-       );
+        wallCheckLeft.position, wallCheckSize, wallCheckRadius, wallLayer);
         isWallRight = Physics2D.OverlapBox(
-        wallCheckRight.position, new Vector2(0.1f, 3f), 0f, wallLayer
-        );
-        if (!isGrounded && (isWallLeft || isWallRight))
-        {
+        wallChecRight.position, wallCheckSize, wallCheckRadius, wallLayer);
+        bool isPushingWall = (isWallLeft && moveinput.x < -0.01f) || (isWallRight && moveinput.x > 0.01f);
+        bool isPushingAway = (isWallLeft && moveinput.x > -0.01f) || (isWallRight && moveinput.x < 0.01f);
 
+        
+        if (isGrounded || isPushingAway || (!isWallLeft && !isWallRight))
+        {
+            isWallAttached = false;
+        }
+        else if(isPushingWall)
+        {
+            isWallAttached = true;
+        }
+        if(isWallAttached && rb.linearVelocity.y <= 0f)
+        {
+            wallHangTimer += Time.deltaTime;
+            
+            if(wallHangTimer < wallHangTime)
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
+            }
+            else
+            {
+                rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -wallSlideSpeed));
+            }
+        }
+        else
+        {
+            wallHangTimer = 0f;
         }
     }
 
