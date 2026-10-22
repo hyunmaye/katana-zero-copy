@@ -73,3 +73,29 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+#Unity recovery scene
+/Assets/_Recovery/
+/Assets/_Recovery.meta
+
+#slnx
+*.slnx
+
+#nohup log
+/nohup.out
+
+#Editer settings
+/.vscode/settings.json
+*.DotSettings.user
+
+#Crash reports
+mono_crash.*
+
+#Blender backup
+*.blend1
+*.blend1.meta
+
+#os dump
+.DS_Store
+Thumbs.db
+Desktop.ini
