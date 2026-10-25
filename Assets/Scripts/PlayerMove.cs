@@ -6,6 +6,10 @@ using UnityEngine.InputSystem;
 
 public class PlayerMove : MonoBehaviour
 {
+    [Header("CommonSetting")]
+    [SerializeField]
+    private Rigidbody2D rb;
+    private float defaultGravityScale = 10;
 
     [Header("PlayerMove")]
     public float moveSpeed = 8f;
@@ -16,8 +20,7 @@ public class PlayerMove : MonoBehaviour
     [Header("PlayerJump")]
     public float jumpPower = 10f;
 
-    [SerializeField]
-    private Rigidbody2D rb;
+    
 
     [SerializeField]
     private InputActionReference jumpAction;
@@ -28,21 +31,20 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 0.1f;
 
     [Header("Wall Check")]
-    [SerializeField] private Transform wallCheckLeft;
-    [SerializeField] private Transform wallChecRight;
-    [SerializeField] private Vector2 wallCheckSize = new Vector2 (0.1f, 3f);
-    [SerializeField] private float wallCheckRadius = 0f;
+    [SerializeField] private Collider2D wallCheckLeft;
+    [SerializeField] private Collider2D wallCheckRight;
     [SerializeField] private LayerMask wallLayer;
     [SerializeField] private float wallSlideSpeed = 2f;
-    [SerializeField] private float wallHangTime = 0.15f;
+    [SerializeField] private float wallHangTime = 0.5f;
 
-    float wallHangTimer;
-    bool isWallAttached;
-    bool isWallLeft;
-    bool isWallRight;
-    bool isGrounded;
-     
-     
+
+    private bool isWallLeft;
+    private bool isWallRight;
+    private bool isGrounded;
+    private bool isPushingWallLeft;
+    private bool isPushingWallRight;
+    private bool isWall;
+
 
     private void Update()
     {   //이동
@@ -67,40 +69,27 @@ public class PlayerMove : MonoBehaviour
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
         }
         //벽타기 
-        
-        isWallLeft = Physics2D.OverlapBox(
-        wallCheckLeft.position, wallCheckSize, wallCheckRadius, wallLayer);
-        isWallRight = Physics2D.OverlapBox(
-        wallChecRight.position, wallCheckSize, wallCheckRadius, wallLayer);
-        bool isPushingWall = (isWallLeft && moveinput.x < -0.01f) || (isWallRight && moveinput.x > 0.01f);
-        bool isPushingAway = (isWallLeft && moveinput.x > -0.01f) || (isWallRight && moveinput.x < 0.01f);
-
-        
-        if (isGrounded || isPushingAway || (!isWallLeft && !isWallRight))
+        isWallLeft = wallCheckLeft.IsTouchingLayers(wallLayer);
+        isWallRight = wallCheckRight.IsTouchingLayers(wallLayer);
+        isPushingWallLeft = isWallLeft && (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow));
+        isPushingWallRight = isWallRight && (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow));
+        isWall = (isPushingWallLeft || isPushingWallRight);
+        if (isWall && !isGrounded)
         {
-            isWallAttached = false;
+            rb.gravityScale = wallSlideSpeed;
         }
-        else if(isPushingWall)
+        else if (isWall && isGrounded)
         {
-            isWallAttached = true;
-        }
-        if(isWallAttached && rb.linearVelocity.y <= 0f)
-        {
-            wallHangTimer += Time.deltaTime;
-            
-            if(wallHangTimer < wallHangTime)
-            {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f);
-            }
-            else
-            {
-                rb.linearVelocity = new Vector2(rb.linearVelocity.x, Mathf.Max(rb.linearVelocity.y, -wallSlideSpeed));
-            }
+            rb.gravityScale = defaultGravityScale;
         }
         else
         {
-            wallHangTimer = 0f;
+            rb.gravityScale = defaultGravityScale;
         }
-    }
 
+        
+
+    }
 }
+        
+        
