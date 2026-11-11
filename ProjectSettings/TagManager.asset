@@ -50,8 +50,11 @@ TagManager:
   - name: Player
     uniqueID: 188833063
     locked: 0
-  - name: FanFg
+  - name: Fan
     uniqueID: 1729183549
+    locked: 0
+  - name: fanblade
+    uniqueID: 4154800767
     locked: 0
   m_RenderingLayers:
   - Default

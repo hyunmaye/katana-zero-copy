@@ -30,20 +30,19 @@ public class PlayerMove : MonoBehaviour
     [SerializeField] private LayerMask groundLayer;
     [SerializeField] private float groundCheckRadius = 0.1f;
 
-    [Header("Wall Check")]
+    [Header("Wall")]
+    [SerializeField] private Collider2D wallCollider;
+    [SerializeField] private LayerMask wallLayer;
     [SerializeField] private Collider2D wallCheckLeft;
     [SerializeField] private Collider2D wallCheckRight;
-    [SerializeField] private LayerMask wallLayer;
-    [SerializeField] private float wallSlideSpeed = 2f;
-    [SerializeField] private float wallHangTime = 0.5f;
+   
 
+       private bool isGrounded;
+       private bool isWallLeft;
+       private bool isWallRight;
 
-    private bool isWallLeft;
-    private bool isWallRight;
-    private bool isGrounded;
-    private bool isPushingWallLeft;
-    private bool isPushingWallRight;
-    private bool isWall;
+       private bool isWallHang;
+       
 
 
     private void Update()
@@ -71,22 +70,9 @@ public class PlayerMove : MonoBehaviour
         //벽타기 
         isWallLeft = wallCheckLeft.IsTouchingLayers(wallLayer);
         isWallRight = wallCheckRight.IsTouchingLayers(wallLayer);
-        isPushingWallLeft = isWallLeft && (Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.LeftArrow));
-        isPushingWallRight = isWallRight && (Input.GetKey(KeyCode.D) || Input.GetKey(KeyCode.RightArrow));
-        isWall = (isPushingWallLeft || isPushingWallRight);
-        if (isWall && !isGrounded)
-        {
-            rb.gravityScale = wallSlideSpeed;
-        }
-        else if (isWall && isGrounded)
-        {
-            rb.gravityScale = defaultGravityScale;
-        }
-        else
-        {
-            rb.gravityScale = defaultGravityScale;
-        }
-
+        
+        
+       
         
 
     }
